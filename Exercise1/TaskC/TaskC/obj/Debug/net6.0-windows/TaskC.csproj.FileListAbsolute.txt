@@ -1,0 +1,7 @@
+C:\Users\goget\Downloads\Algorithm assignment\Exercise1\TaskC\TaskC\obj\Debug\net6.0-windows\TaskC.csproj.AssemblyReference.cache
+C:\Users\goget\Downloads\Algorithm assignment\Exercise1\TaskC\TaskC\obj\Debug\net6.0-windows\TaskC.BookListFrm.resources
+C:\Users\goget\Downloads\Algorithm assignment\Exercise1\TaskC\TaskC\obj\Debug\net6.0-windows\TaskC.csproj.GenerateResource.cache
+C:\Users\goget\Downloads\Algorithm assignment\Exercise1\TaskC\TaskC\obj\Debug\net6.0-windows\TaskC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goget\Downloads\Algorithm assignment\Exercise1\TaskC\TaskC\obj\Debug\net6.0-windows\TaskC.AssemblyInfoInputs.cache
+C:\Users\goget\Downloads\Algorithm assignment\Exercise1\TaskC\TaskC\obj\Debug\net6.0-windows\TaskC.AssemblyInfo.cs
+C:\Users\goget\Downloads\Algorithm assignment\Exercise1\TaskC\TaskC\obj\Debug\net6.0-windows\TaskC.csproj.CoreCompileInputs.cache

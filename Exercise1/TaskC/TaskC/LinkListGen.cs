@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TaskC
 {
-    internal class LinkListGen<T> where T : IComparable
+    internal class LinkListGen<T> where T : IComparable<T>
     {
         private LinkGen<T> head;
 
@@ -115,6 +115,35 @@ namespace TaskC
                 previous.Next = newLink;
 
             newLink.Next = current;
+        }
+
+        public void Sort()
+        {
+            if (head == null || head.Next == null)
+                return; // List is already sorted if it has 0 or 1 items.
+
+            bool swapped;
+            do
+            {
+                swapped = false;
+                LinkGen<T> current = head;
+                LinkGen<T> previous = null;
+
+                while (current.Next != null)
+                {
+                    if (current.Data.CompareTo(current.Next.Data) > 0)
+                    {
+                        // Swap the data between current and next
+                        T temp = current.Data;
+                        current.Data = current.Next.Data;
+                        current.Next.Data = temp;
+
+                        swapped = true;
+                    }
+                    previous = current;
+                    current = current.Next;
+                }
+            } while (swapped);
         }
     }
 }

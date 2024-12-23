@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\goget\\Downloads\\Algorithm assignment\\Exercise1\\TaskC\\TaskC\\TaskC.csproj": {}
+    "C:\\Users\\Mohd Ediab\\OneDrive\\Desktop\\Uni assignments\\Algorithms and data structures\\Exercise1\\TaskC\\TaskC\\TaskC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\goget\\Downloads\\Algorithm assignment\\Exercise1\\TaskC\\TaskC\\TaskC.csproj": {
+    "C:\\Users\\Mohd Ediab\\OneDrive\\Desktop\\Uni assignments\\Algorithms and data structures\\Exercise1\\TaskC\\TaskC\\TaskC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\goget\\Downloads\\Algorithm assignment\\Exercise1\\TaskC\\TaskC\\TaskC.csproj",
+        "projectUniqueName": "C:\\Users\\Mohd Ediab\\OneDrive\\Desktop\\Uni assignments\\Algorithms and data structures\\Exercise1\\TaskC\\TaskC\\TaskC.csproj",
         "projectName": "TaskC",
-        "projectPath": "C:\\Users\\goget\\Downloads\\Algorithm assignment\\Exercise1\\TaskC\\TaskC\\TaskC.csproj",
-        "packagesPath": "C:\\Users\\goget\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\goget\\Downloads\\Algorithm assignment\\Exercise1\\TaskC\\TaskC\\obj\\",
+        "projectPath": "C:\\Users\\Mohd Ediab\\OneDrive\\Desktop\\Uni assignments\\Algorithms and data structures\\Exercise1\\TaskC\\TaskC\\TaskC.csproj",
+        "packagesPath": "C:\\Users\\Mohd Ediab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mohd Ediab\\OneDrive\\Desktop\\Uni assignments\\Algorithms and data structures\\Exercise1\\TaskC\\TaskC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\goget\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mohd Ediab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

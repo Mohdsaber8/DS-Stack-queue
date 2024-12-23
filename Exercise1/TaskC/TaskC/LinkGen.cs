@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TaskC
 {
-    internal class LinkGen<T> where T : IComparable
+    internal class LinkGen<T> where T : IComparable<T>
     {
         private T data;
         private LinkGen<T> next;
